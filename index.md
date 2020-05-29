@@ -3,6 +3,8 @@ layout: default
 show_downloads: true
 ---
 
+### The Idea 
+
 As the use of technology in the workplace becomes ever more ubiquitous, there are some monotonous aspects of everyday jobs that have been done manually for too long. One such example is the manual transition of data from a physical copy of some data to excel. In many financial services fields, firms are given physical copies of data on meeting clients, acquisition targets, and so on. To evaluate the value of the party/parties on the opposite side of the negotiation table, this data must be transferred into a model of some sort on excel. The goal of our application is to automate this process.
 
 ### Goals 
