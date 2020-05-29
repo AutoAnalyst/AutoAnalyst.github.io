@@ -25,5 +25,16 @@ Goal 1 is our current scope for the final project, and will be completed by the 
 Goals 2 & 3 of the project are stretch goals, which we aim to achieve but don't think it is fesible before the project deadline. The goal of completion for these (if the project is pursued) is by the end of June. 
 Other types of models (waterfall, capex, etc.) may be added on as other modules that could be pursued in the future. 
 
+### Implementation
+
+The project is in progress, no complete implementation to show yet. 
+
+### Team 
+
+David Perez Gonzalez 
+
+Callum Hafner Schnee 
+
+### Download the APK
 
 [Link to another page](./another-page.html).
