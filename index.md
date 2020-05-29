@@ -24,7 +24,7 @@ As the use of technology in the workplace becomes ever more ubiquitous, there ar
    *  balance sheet 
    *  income statement 
    *  cash flow statement
-  Once the data is converted, the app will use the two detected models to create the missing sheet, and then set up the relational equations between each value for future prediction. This is modelling in easy mode, all you have to do is input your constants. This is a stretch goal of the project and the goal of completion (if the project is pursued) is by the end of June. 
+Once the data is converted, the app will use the two detected models to create the missing sheet, and then set up the relational equations between each value for future prediction. This is modelling in easy mode, all you have to do is input your constants. This is a stretch goal of the project and the goal of completion (if the project is pursued) is by the end of June. 
 
 ### Header 3
 
