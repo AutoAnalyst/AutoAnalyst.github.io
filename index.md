@@ -1,6 +1,5 @@
 ---
 layout: default
-title: AutoAnalyst
 show_downloads: true
 ---
 
