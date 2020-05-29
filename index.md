@@ -10,15 +10,21 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Dartmouth CS 65 Final Project 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Auto Analyst 
 
-## Header 2
+As the use of technology in the workplace becomes ever more ubiquitous, there are some monotonous aspects of everyday jobs that have been done manually for too long. One such example is the manual transition of data from a physical copy of some data to excel. In many financial services fields, firms are given physical copies of data on meeting clients, acquisition targets, and so on. To evaluate the value of the party/parties on the opposite side of the negotiation table, this data must be transferred into a model of some sort on excel. The goal of this application is to automate this process.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Goals 
+
+1.  By simply taking a picture of the data you need, 'Auto Analyst' is able to send you a excel sheet with all the values already filled. That way you can get right to modelling instead of spending a few hours on manually copying all the data. We expect to reach this stage by the deadline of the class project.
+
+2. A 3-Statement Model Module, when selected, will be able to detect two out of the following in the images taken: 
+   *  balance sheet 
+   *  income statement 
+   *  cash flow statement
+  Once the data is converted, the app will use the two detected models to create the missing sheet, and then set up the relational equations between each value for future prediction. This is modelling in easy mode, all you have to do is input your constants. This is a stretch goal of the project and the goal of completion (if the project is pursued) is by the end of June. 
 
 ### Header 3
 
