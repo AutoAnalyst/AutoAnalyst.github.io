@@ -1,5 +1,6 @@
 ---
 layout: default
+title: AutoAnalyst
 ---
 
 [Link to another page](./another-page.html).
