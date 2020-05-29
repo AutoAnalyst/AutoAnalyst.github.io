@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: AutoAnalyst
 description: CS 65 Dartmouth Final Project, Automated Data Entry 
 show_downloads: true 
+github_is_user_page: false 
