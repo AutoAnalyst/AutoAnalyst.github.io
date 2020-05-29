@@ -1,6 +1,7 @@
 ---
 layout: default
 title: AutoAnalyst
+show_downloads: true
 ---
 
 [Link to another page](./another-page.html).
