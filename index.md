@@ -52,4 +52,4 @@ UI Shared, major emphasis was on operation.
 
 ### Download the APK
 
-[Link to another page](https://github.com/AutoAnalyst/AutoAnalyst.github.io/blob/master/FinalProject.apk).
+[Version 0.1](https://github.com/AutoAnalyst/AutoAnalyst.github.io/blob/master/FinalProject.apk).
