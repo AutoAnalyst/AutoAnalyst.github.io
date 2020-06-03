@@ -25,13 +25,22 @@ Other types of models (waterfall, capex, etc.) may be added on as other modules 
 
 ### Process 
 
+Linear Progression of AutoAnalyst 
+
 ![Branching](images/Picture1.png)
 
 ### Implementation
 
 Key decision: What direction to proceed in with data processing algorithm
 
-![Branching](images/Picture1.png)
+![Branching](images/Picture2.png)
+
+Other Important future considerations include:
+- Displaying history of data recordings or transfers locally
+- Procuring larger set of test materials, partner with potential clients for development 
+- Ensuring secure transfer of data and store nothing on cloud permanently (eliminate any potential liability for NDA agreements regarding translated data) 
+- Elimination of dependency on 3rd party API's wherever possible
+- Development of proprietary data reading or detection algorithm
 
 ### Team 
 
