@@ -29,9 +29,9 @@ Other types of models (waterfall, capex, etc.) may be added on as other modules 
 
 ### Implementation
 
-The project is in progress, no complete implementation to show yet. 
+Key decision: What direction to proceed in with data processing algorithm
 
-
+![Branching](images/Picture1.png)
 
 ### Team 
 
