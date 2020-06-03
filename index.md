@@ -44,9 +44,11 @@ Other Important future considerations include:
 
 ### Team 
 
-David Perez Gonzalez 
+David Perez Gonzalez - Back End server script, Text recognition and parsing of data 
 
-Callum Hafner Schnee 
+Callum Hafner Schnee - Firebase implementation, Volley library code, http Post-Request
+
+UI Shared, major emphasis was on operation.  
 
 ### Download the APK
 
