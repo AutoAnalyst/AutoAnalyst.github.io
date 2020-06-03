@@ -25,7 +25,7 @@ Other types of models (waterfall, capex, etc.) may be added on as other modules 
 
 ### Process 
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](images/Picture1.png)
 
 ### Implementation
 
